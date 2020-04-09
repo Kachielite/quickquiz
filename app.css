@@ -34,6 +34,12 @@ h3 {
     font-weight: 500;
 }
 
+p {
+    color: #197c3a;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
 #tenor {
     width: 20rem;
     height: 20rem;
@@ -132,4 +138,11 @@ input {
 
 input::placeholder {
     color: #aaa;
+}
+
+#share {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
